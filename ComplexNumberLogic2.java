@@ -13,8 +13,7 @@ public class ComplexNumberLogic2 {
 
         int realsum = real1+real2;
         int imaginarysum = imaginary1+imaginary2;
-
         System.out.println(realsum +" + "+imaginarysum +"i");
-
+        sc.close();
     }
 }
