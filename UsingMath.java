@@ -37,5 +37,6 @@ public class UsingMath {
         double abs = sc.nextDouble();
         double absvalue = Math.abs(abs);
         System.out.println(absvalue);
+        sc.close();
     }
 }
