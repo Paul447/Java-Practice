@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class SumArray {
     public static void main(String[] args) {
        int arr[] = {1,2,3,4,5};
@@ -9,7 +7,6 @@ public class SumArray {
 
        }
        System.out.println(sum);
-
-        
+  
     }
 }
