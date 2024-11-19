@@ -29,5 +29,6 @@ public class UsingSwitch {
                 System.out.println("Invalid Input");
                 System.exit(1);
         }
+        sc.close();
     }
 }
